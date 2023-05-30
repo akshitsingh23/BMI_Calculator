@@ -42,3 +42,5 @@ Make sure to check the pubspec.yaml file for the specific versions of these depe
 
 **Contributing**
 Contributions to the BMI Calculator app are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+
+IF YOU WANT TO SEE THE CODE THEN GO TO LIB FOLDER AND OPEN MAIN.DART
